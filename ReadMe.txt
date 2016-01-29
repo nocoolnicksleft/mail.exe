@@ -3,7 +3,7 @@
 Mail 1.0b
 =====================================================================================
 
-by Bjoern Seip for COMLINE AG, Hamburg, Germany (bseip@seip.net)
+by Bjoern Seip for COMLINE AG, Hamburg, Germany (nocoolnicksleft@gmail.com)
 
 i was inspired by the tool smtpsnd by Sergio Steinberg, Buenos Aires, Argentina 
 (sergio_steinberg@hotmail.com) from whose source code i learned how to do SMTP, 
@@ -26,13 +26,8 @@ for any particular purpose. The source code is not generally available.
 
 Comments and suggestions are welcome, although i cant promise to fulfill any 
 particular needs. If you like this tool and make use of it in a production 
-environment i ask you to send me a picture-postcard from whereever you live to:
+environment send me an encouraging email message.
 
-Bjoern Seip
-COMLINE AG
-Heselstuecken 28
-22453 Hamburg
-Germany
 
 =====================================================================================
 Syntax
